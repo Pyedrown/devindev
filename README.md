@@ -9,3 +9,5 @@ git status > o estado atual do repositório
 git add . > adicionar todas as modificações no staged
 git commit -m "mensagem" > registrar as modificações
 git push origin > enviar as modificações para o repositório remoto
+
+Agora eu estou na branch
